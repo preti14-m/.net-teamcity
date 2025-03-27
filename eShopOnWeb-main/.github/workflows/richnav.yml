@@ -1,4 +1,4 @@
-name: eShopOnWeb - Code Integration test1241234567908
+name: eShopOnWeb - Code Integration in Teamcity
 
 on: workflow_dispatch
 
