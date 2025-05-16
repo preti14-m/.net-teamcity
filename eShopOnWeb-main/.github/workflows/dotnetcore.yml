@@ -1,4 +1,4 @@
-name: eShopOnWeb Build and Test
+name: eShopOnWeb Build and Test online
 
 on: [push, pull_request, workflow_dispatch]
 
